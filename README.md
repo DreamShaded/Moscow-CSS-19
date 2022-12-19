@@ -8,7 +8,7 @@
 ## Полезные чаты:
 1) [Moscow CSS](https://t.me/moscowcss)
 1) [MSK VueJS](https://t.me/msk_vue_js)
-1) [Телега про разработку](https://t.me/vzhyx_exp), пишу про свой опыт, вэлкам)
+1) [Телега про разработку](https://t.me/vzhyx_exp), пишу про свой опыт, доклады, прочее. Вэлкам)
 
 ## Важные свойства
 
@@ -25,5 +25,5 @@
 ## Проекты, использованные в докладе
 Дизайн и разработка - это [beta](https://beta.ru/).
 Ссылка на новость - [Сибур диджитал](https://sibur.digital/publications).
-Дропдауны, меню - [Абсолют Страхование](https://www.absolutins.ru/fizicheskie-lica/strahovanie-pri-ipoteke/ipoteka/).
+Дропдауны, меню - [Абсолют Страхование](https://www.absolutins.ru/fizicheskie-lica/strahovanie-pri-ipoteke/ipoteka/). Карточка товара - забыл, но помню принцип.
 
